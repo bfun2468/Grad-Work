@@ -1,0 +1,77 @@
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\Procedural animation test.exe
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\Procedural animation test.deps.json
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\Procedural animation test.runtimeconfig.json
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\Procedural animation test.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\Procedural animation test.pdb
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\brami\source\repos\Procedural animation test\obj\Debug\net6.0-windows\Procedural animation test.csproj.AssemblyReference.cache
+C:\Users\brami\source\repos\Procedural animation test\obj\Debug\net6.0-windows\Procedural animation test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brami\source\repos\Procedural animation test\obj\Debug\net6.0-windows\Procedural animation test.AssemblyInfoInputs.cache
+C:\Users\brami\source\repos\Procedural animation test\obj\Debug\net6.0-windows\Procedural animation test.AssemblyInfo.cs
+C:\Users\brami\source\repos\Procedural animation test\obj\Debug\net6.0-windows\Procedural animation test.csproj.CoreCompileInputs.cache
+C:\Users\brami\source\repos\Procedural animation test\obj\Debug\net6.0-windows\Procedur.58A37626.Up2Date
+C:\Users\brami\source\repos\Procedural animation test\obj\Debug\net6.0-windows\Procedural animation test.dll
+C:\Users\brami\source\repos\Procedural animation test\obj\Debug\net6.0-windows\refint\Procedural animation test.dll
+C:\Users\brami\source\repos\Procedural animation test\obj\Debug\net6.0-windows\Procedural animation test.pdb
+C:\Users\brami\source\repos\Procedural animation test\obj\Debug\net6.0-windows\Procedural animation test.genruntimeconfig.cache
+C:\Users\brami\source\repos\Procedural animation test\obj\Debug\net6.0-windows\ref\Procedural animation test.dll
+C:\Users\brami\source\repos\Procedural animation test\bin\Debug\net6.0-windows\GeoSketch.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\Procedural animation test.exe
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\Procedural animation test.deps.json
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\Procedural animation test.runtimeconfig.json
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\Procedural animation test.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\Procedural animation test.pdb
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\GeoSketch.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\SharpDX.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\obj\Debug\net6.0-windows\Procedural animation test.csproj.AssemblyReference.cache
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\obj\Debug\net6.0-windows\Procedural animation test.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\obj\Debug\net6.0-windows\Procedural animation test.AssemblyInfoInputs.cache
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\obj\Debug\net6.0-windows\Procedural animation test.AssemblyInfo.cs
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\obj\Debug\net6.0-windows\Procedural animation test.csproj.CoreCompileInputs.cache
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\obj\Debug\net6.0-windows\Procedural animation test.sourcelink.json
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\obj\Debug\net6.0-windows\Procedur.58A37626.Up2Date
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\obj\Debug\net6.0-windows\Procedural animation test.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\obj\Debug\net6.0-windows\refint\Procedural animation test.dll
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\obj\Debug\net6.0-windows\Procedural animation test.pdb
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\obj\Debug\net6.0-windows\Procedural animation test.genruntimeconfig.cache
+C:\DAE\GE\Grad-Work\2DistanceConstraintTest\obj\Debug\net6.0-windows\ref\Procedural animation test.dll
